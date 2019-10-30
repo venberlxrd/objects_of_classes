@@ -1,0 +1,7 @@
+C:\Users\comp0709\source\repos\objects_f_lasses\objects_f_lasses\bin\Debug\objects_f_lasses.exe.config
+C:\Users\comp0709\source\repos\objects_f_lasses\objects_f_lasses\bin\Debug\objects_f_lasses.exe
+C:\Users\comp0709\source\repos\objects_f_lasses\objects_f_lasses\bin\Debug\objects_f_lasses.pdb
+C:\Users\comp0709\source\repos\objects_f_lasses\objects_f_lasses\obj\Debug\objects_f_lasses.csprojAssemblyReference.cache
+C:\Users\comp0709\source\repos\objects_f_lasses\objects_f_lasses\obj\Debug\objects_f_lasses.csproj.CoreCompileInputs.cache
+C:\Users\comp0709\source\repos\objects_f_lasses\objects_f_lasses\obj\Debug\objects_f_lasses.exe
+C:\Users\comp0709\source\repos\objects_f_lasses\objects_f_lasses\obj\Debug\objects_f_lasses.pdb
